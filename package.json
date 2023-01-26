@@ -1,0 +1,20 @@
+{
+  "name": "normalize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ceytek/normalize.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ceytek/normalize/issues"
+  },
+  "homepage": "https://github.com/ceytek/normalize#readme"
+}
